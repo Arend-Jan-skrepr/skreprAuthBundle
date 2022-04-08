@@ -4,7 +4,7 @@
   "description": "Skrepr authentication",
   "autoload": {
     "psr-4": {
-      "Skrepr\\SkreprAuthBundle": "src/"
+      "Skrepr\\SkreprAuthBundle\\": "src/"
     }
   }
 }
