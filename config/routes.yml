@@ -1,0 +1,3 @@
+skrepr_auth:
+  resource: '../src/controller'
+  type: annotation
