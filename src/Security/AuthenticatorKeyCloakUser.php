@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Security;
+namespace Skrepr\SkreprAuthBundle\Security;
 
 use App\Entity\User;
 use App\Repository\UserRepository;

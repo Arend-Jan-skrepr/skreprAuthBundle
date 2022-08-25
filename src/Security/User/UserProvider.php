@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Skrepr\SkreprAuthBundle\Providers;
+namespace Skrepr\SkreprAuthBundle\Security\User;
 
 use Symfony\Component\Security\Core\Exception\UnsupportedUserException;
 use Symfony\Component\Security\Core\User\UserInterface;
