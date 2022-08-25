@@ -2,9 +2,6 @@
   "name": "skrepr/auth",
   "type": "symfony-bundle",
   "description": "Skrepr authentication",
-  "require": {
-    "php": ">=7.2.5"
-  },
   "autoload": {
     "psr-4": {
       "Skrepr\\SkreprAuthBundle\\": "src/"
